@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "foodifyo",
-    "slug": "snack-c1672812-1ce7-4e1b-bc60-25c009301a2f",
+    "slug": "foodifyo-ur-w8aeidvmkvy-y6rqv",
+    "owner": "divyam11",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +26,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "554ad45c-7cbb-4565-ab2f-aea11859671b"
+      }
     }
   }
 }
